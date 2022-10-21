@@ -1,6 +1,6 @@
-import 'package:common/behavioural/command/command.dart';
-import 'package:common/behavioural/command/invoker.dart';
-import 'package:common/behavioural/command/receiver.dart';
+import 'package:common/behavioural/command/lib/command.dart';
+import 'package:common/behavioural/command/lib/invoker.dart';
+import 'package:common/behavioural/command/lib/receiver.dart';
 
 void main() {
   final studyPrinter = StudyPrinter();

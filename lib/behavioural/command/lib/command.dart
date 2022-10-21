@@ -1,5 +1,5 @@
 // Command interface
-import 'package:common/behavioural/command/receiver.dart';
+import 'package:common/behavioural/command/lib/receiver.dart';
 
 abstract class Command {
   Command({ required this.printer });

@@ -1,4 +1,4 @@
-import 'package:common/behavioural/command/command.dart';
+import 'package:common/behavioural/command/lib/command.dart';
 
 // Invoker class
 class Shell {
